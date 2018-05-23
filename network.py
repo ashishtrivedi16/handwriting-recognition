@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Tue May 15 13:32:00 2018
+#Created on Tue May 15 13:32:00 2018
 
-@author: Ashish_Trivedi
+#@author: Ashish_Trivedi
 
 import random
 
