@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-Created on Tue May 15 18:13:34 2018
+#Created on Tue May 15 18:13:34 2018
 
-@author: Ashish_Trivedi
+#@author: Ashish_Trivedi
 
 import pickle
 import gzip
